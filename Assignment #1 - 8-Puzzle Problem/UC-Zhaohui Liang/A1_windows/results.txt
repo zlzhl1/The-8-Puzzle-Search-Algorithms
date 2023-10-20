@@ -1,0 +1,11 @@
+ALGORITHM,               INIT_STATE,            GOAL_STATE,       PATH_LENGTH,     STATE_EXPANSIONS,  MAX_QLENGTH,  RUNNING_TIME,  DELETIONS_MIDDLE_HEAP, LOCAL_LOOPS_AVLENGTH,  RUNNING_TIME,  DELETIONS_MIDDLE_HEAP, LOCAL_LOOPS_AVOIDED, ATTEMPTED_REEXPANSIONS,   PATH                                                                      
+uniform_cost_search          ,120483765          ,123456780          ,6             ,85               ,59               ,0.001000               ,0                    ,1
+             ,0.001000               ,0                    ,1               ,0               ,DDLURD                                                                    
+uniform_cost_search          ,208135467          ,123456780          ,15             ,6909               ,4135               ,0.030000               ,0                 
+   ,344               ,0               ,DDRUULLDDRRULDR                                                                                                                 
+uniform_cost_search          ,704851632          ,123456780          ,19             ,34907               ,17156               ,0.141000               ,0               
+     ,3356               ,0               ,RDDLLUURRDDLLUURRDD                                                                                                          
+uniform_cost_search          ,536407182          ,123456780          ,22             ,85631               ,31993               ,0.352000               ,0               
+     ,14009               ,0               ,DRULDLURDRUULDLURDLDRR                                                                                                      
+uniform_cost_search          ,638541720          ,123456780          ,28             ,179745               ,3682               ,1.024000               ,0               
+     ,57479               ,0               ,UULDRDLULURRDDLUURDLLURRDLDR                                                                                                
